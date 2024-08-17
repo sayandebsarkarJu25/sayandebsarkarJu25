@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m Sayandeb Sarkar 👋
 
-<!--
-**sayandebsarkarJu25/sayandebsarkarJu25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Machine Learning (ML)**, **Web Development**, and **Artificial Intelligence (AI)**.
+- 👯 I’m looking to collaborate on **Open Source** and **Open Science** projects.
+- 👀 I’m interested in exploring and learning **new technologies**.
+- 📫 You can reach me at: [sayandebsarkar19@gmail.com](mailto:sayandebsarkar19@gmail.com)
+
+## Skills & Technologies
+
+- **Programming Languages**: Python, JavaScript,c/c++ etc.
+- **Tools & Technologies**: Flask, React, Node.js, etc.
+
+## Connect with Me
+
+- [LinkedIn]([link_to_your_linkedin_profile](https://www.linkedin.com/in/sayandeb-sarkar/))
+
+
+Looking forward to connecting with you!
