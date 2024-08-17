@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 
 ## Connect with Me
 
-- [LinkedIn]([link_to_your_linkedin_profile](https://www.linkedin.com/in/sayandeb-sarkar/))
+- [LinkedIn](https://www.linkedin.com/in/sayandeb-sarkar/)
 
 
 Looking forward to connecting with you!
